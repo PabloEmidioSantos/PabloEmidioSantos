@@ -52,7 +52,7 @@
   <a href="mailto:pabloemidiosantos28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/pabloemidiodossantos/">
+  <a href="https://www.linkedin.com/in/pabloemidiodossantos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
