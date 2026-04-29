@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 opa, eu sou o Pablo, tenho 16 anos de idade e sou um dev junior
 
-<!--
-**PabloEmidioSantos/PabloEmidioSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 focado em back-end  
+🚀 estudando pra virar um back oficial  
+📚 atualmente mexendo com C# e .NET  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 tecnologias que uso
+- C# / .NET
+- java
+- JavaScript / Node.js
+- Python (Flask)
+- c
+- MySQL
+- HTML / CSS
+
+---
+
+## 🚀 projetos
+🔹 EmidioMidiSize → e-commerce em desenvolvimento
+🔹 Love-Player → player de música web  
+🔹 Espaço e Talentos → site institucional  
+
+---
+
+## 🎯 objetivo
+conseguir uma oportunidade na área de TI e evoluir cada vez mais
+
+---
+
+## 📫 contato
+📧 pabloemidiosantos28@gmail.com
+🔗 linkedin.com/in/pabloemidiosantos
+📱 (55)11  9 83569151
