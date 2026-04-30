@@ -1,6 +1,6 @@
 # 👋 Opa, eu sou o Pablo 
 
-#👨‍🎓Um pouco sobre mim
+# 👨‍🎓Um pouco sobre mim
 
 Tenho 16 anos e sou apaixonado por programação, influenciado desde cedo pelos meus tios que já atuam na área.
 
