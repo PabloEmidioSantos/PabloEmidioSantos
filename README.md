@@ -1,4 +1,18 @@
-# 👋 opa, eu sou o Pablo (16y)
+# 👋 Opa, eu sou o Pablo 
+
+#👨‍🎓Um pouco sobre mim
+
+Tenho 16 anos e sou apaixonado por programação, influenciado desde cedo pelos meus tios que já atuam na área.
+
+Iniciei meus estudos em 2025, acompanhando conteúdos do YouTube, especialmente do Gustavo Guanabara, começando por HTML e CSS. Com o tempo, evoluí para JavaScript e encontrei maior interesse no desenvolvimento back-end, onde me identifiquei com a lógica, estruturação de dados e o funcionamento interno das aplicações.
+
+Desde então, venho aprofundando meus conhecimentos e buscando evoluir constantemente como desenvolvedor.
+
+Atualmente, trabalho como jovem aprendiz na CET (Companhia de Engenharia de Tráfego), onde tenho contato com atividades práticas relacionadas à estruturação de sistemas. No entanto, o ambiente é mais voltado a sistemas legados e redes.
+
+Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na área de desenvolvimento, onde eu possa aplicar e expandir meus conhecimentos em programação.
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Back-end+Developer+em+evolução;Focado+em+C#+e+.NET;Construindo+projetos+reais+🚀" />
 
