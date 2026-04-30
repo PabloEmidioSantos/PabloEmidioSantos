@@ -29,14 +29,14 @@
 
 ## 🔥 projetos em destaque
 
-🔹 **EmidioMidiSize**  
-→ e-commerce completo em desenvolvimento  
+🔹 **<a href="https://emidiomidisize2026.netlify.app" style="text-decoration: none;">Emidio Midi Size</a>**  
+→ Emidio Midi Size é um site desenvolvido para a apresentação de roupas feitas artesanalmente, focado na exposição de modelos e inspiração para novos clientes. Atualmente emn Desenvolvimento  
 
-🔹 **Love-Player**  
-→ player de música funcional para web  
+🔹 **<a href="https://loveplayer.netlify.app/" style="text-decoration: none;">Love-Player<a/>**  
+→ Site de player de músicas com minhas faixas favoritas, desenvolvido para uso no dia a dia durante o trabalho.  
 
-🔹 **Espaço e Talentos**  
-→ site institucional moderno e responsivo  
+🔹 **<a href="espacotalentos.netlify.app" style="text-decoration: none;">Espaço e Talentos<a/>**  
+→ Projeto de site para o Espaço e Talentos, desenvolvido com foco em design responsivo e usabilidade. Inclui apresentação do espaço, galeria de imagens e interações básicas em JavaScript. 
 
 ---
 
