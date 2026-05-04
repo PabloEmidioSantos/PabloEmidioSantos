@@ -49,7 +49,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 🔹 **<a href="https://loveplayer.netlify.app/" style="text-decoration: none;">Love-Player<a/>**  
 → Site de player de músicas com minhas faixas favoritas, desenvolvido para uso no dia a dia durante o trabalho.  
 
-🔹 **<a href="espacotalentos.netlify.app" style="text-decoration: none;">Espaço e Talentos<a/>**  
+🔹 **<a href="https://espacotalentos.netlify.app/" style="text-decoration: none;">Espaço e Talentos<a/>**  
 → Projeto de site para o Espaço e Talentos, desenvolvido com foco em design responsivo e usabilidade. Inclui apresentação do espaço, galeria de imagens e interações básicas em JavaScript. 
 
 ---
