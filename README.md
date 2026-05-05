@@ -26,37 +26,37 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ---
 
-## 🧠 tecnologias
+##                              🧠 tecnologias
 
 ### 💻 linguagens
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,java,c,cs,python" />
 </div>
 
-### ⚙️ back-end & frameworks
+###                             ⚙️ back-end & frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,dotnet" />
 </div>
 
-### 🗄️ banco de dados
+###                             🗄️ banco de dados
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
-### 🌐 front-end
+###                             🌐 front-end
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </div>
 ---
 
-### 🧰 ferramentas & ambiente
+###                             🧰 ferramentas & ambiente
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </div>
 
 ---
 
-## 📊 estatísticas
+##                              📊 estatísticas
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PabloEmidioSantos&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloEmidioSantos&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -64,7 +64,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ---
 
-## 🔥 projetos em destaque
+##                              🔥 projetos em destaque
 
 🔹 **<a href="https://emidiomidisize2026.netlify.app" style="text-decoration: none;">Emidio Midi Size</a>**  
 → Emidio Midi Size é um site desenvolvido para a apresentação de roupas feitas artesanalmente, focado na exposição de modelos e inspiração para novos clientes. Atualmente emn Desenvolvimento  
@@ -77,14 +77,14 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ---
 
-## 🧠 atualmente aprendendo
+##                              🧠 atualmente aprendendo
 - APIs REST
 - Segurança básica (auth, validação)
 - Estruturação de projetos profissionais
 
 ---
 
-## 📫 contato
+##                              📫 contato
 <div align="center">
   <a href="mailto:pabloemidiosantos28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white">
