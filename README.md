@@ -30,7 +30,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ### 💻 linguagens
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,c,cs,python" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,c,js" />
 </div>
 
 ###                             ⚙️ back-end & frameworks
@@ -40,7 +40,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ###                             🗄️ banco de dados
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
 ###                             🌐 front-end
