@@ -51,7 +51,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ### 🧰 ferramentas & ambiente
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </div>
 
 ---
