@@ -30,12 +30,12 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ### 💻 linguagens
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,c,js" />
 </div>
 
 ###                             ⚙️ back-end & frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,dotnet" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,dotnet,aspnetcore,nodejs" />
 </div>
 
 ###                             🗄️ banco de dados
