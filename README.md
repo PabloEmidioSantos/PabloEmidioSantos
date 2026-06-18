@@ -30,7 +30,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ### 💻 linguagens
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,c,js" />
 </div>
 
 ###                             ⚙️ back-end & frameworks
