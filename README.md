@@ -35,7 +35,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ###                             ⚙️ back-end & frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,dotnet,nodejs" />
 </div>
 
 ###                             🗄️ banco de dados
