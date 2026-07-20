@@ -88,7 +88,7 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 ##                              📫 contato
 <div align="center">
   <a href="mailto:pabloemidiosantos28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
   
   <a href="https://www.linkedin.com/in/pabloemidiodossantos/" target="_blank" rel="noopener noreferrer">
@@ -96,6 +96,6 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 </a>
   
   <a href="https://wa.me/5511983569151" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=green">
 </a>
 </div>
