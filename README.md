@@ -4,7 +4,7 @@
 
 Tenho 16 anos e sou apaixonado por programação, influenciado desde cedo pelos meus tios que já atuam na área.
 
-Iniciei meus estudos em 2025, acompanhando conteúdos do YouTube, especialmente do Gustavo Guanabara, começando por HTML e CSS. Com o tempo, evoluí para JavaScript e encontrei maior interesse no desenvolvimento back-end, onde me identifiquei com a lógica, estruturação de dados e o funcionamento interno das aplicações.
+Iniciei meus estudos no inicio de 2025, acompanhando conteúdos do YouTube, especialmente do Gustavo Guanabara, começando por HTML e CSS. Com o tempo, evoluí para JavaScript e encontrei maior interesse no desenvolvimento back-end, onde me identifiquei com a lógica, estruturação de dados e o funcionamento interno das aplicações.
 
 Desde então, venho aprofundando meus conhecimentos e buscando evoluir constantemente como desenvolvedor.
 
