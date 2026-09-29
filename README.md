@@ -56,12 +56,18 @@ Por isso, estou em busca de oportunidades como estagiário ou jovem aprendiz na 
 
 ---
 
-##                              📊 estatísticas
+---
+
+##         📊 estatísticas
+
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PabloEmidioSantos&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PabloEmidioSantos&theme=tokyonight" />
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloEmidioSantos&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloEmidioSantos&theme=tokyonight" />
 </div>
+
+---
+
 
 ---
 
